@@ -1,4 +1,4 @@
-# Kubernetes Examples
+# Kubernetes Example
 
 This directory contains a number of examples of how to run real applications
 with Kubernetes.
